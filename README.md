@@ -1,11 +1,11 @@
-#OpSec Tools Installation and Startup Scripts
+# OpSec Tools Installation and Startup Scripts
 
 This repository contains scripts to automate the installation and startup of essential OpSec tools (TOR Browser, I2P, and ProxyChains) on Windows, macOS, and Debian-based Linux distributions.
 
 
 ---
 
-##Installation Scripts
+## Installation Scripts
 
 1. Windows Installation Script
 
@@ -110,7 +110,7 @@ ProxyChains: Advanced proxy chaining.
 
 ---
 
-##Startup Scripts
+## Startup Scripts
 
 1. Windows Startup Script
 
@@ -247,7 +247,7 @@ Optional - Add to Startup:
 
 ---
 
-#Important Notes
+# Important Notes
 
 **Permissions**: Ensure scripts have the necessary permissions (sudo for Linux/macOS or admin privileges for Windows).
 
